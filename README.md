@@ -19,6 +19,6 @@ This project has been developed as part of the internal assessment for my AI hon
 
 ### Cloning the Repository
 ```bash
-git clone [repository-url]
-cd [repository-directory]
+git clone https://github.com/shriya02-coder/Bi-directional-Search.git
+cd Bi-directional-Search
 ```
