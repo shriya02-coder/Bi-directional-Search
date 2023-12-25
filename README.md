@@ -1,5 +1,5 @@
 
-# Bidirectional Search Project
+# Bidirectional Search 
 
 ## Table of Contents
 - [Introduction](#introduction)
